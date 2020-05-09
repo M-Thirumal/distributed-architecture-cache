@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>in.thirumal</groupId>
-	<artifactId>distributed-architecture-cache</artifactId>
+	<artifactId>redis-cache</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>distributed-architecture-cache</name>
+	<name>redis-cache</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
