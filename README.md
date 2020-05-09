@@ -1,14 +1,14 @@
 # Distributed Cache Management using Redis
 
-#####Install Redis-server
+Install Redis-server
 
 		`sudo apt-get install redis-server`	
 
-#####Verify using redis-client
+Verify using redis-client
 
 		`redis-cli ping'
 
-#####Install redis web client
+Install redis web client
 
 		`sudo npm install -g redis-commander`
 		`redis-commander`
